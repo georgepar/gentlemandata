@@ -1,4 +1,7 @@
 # gentlemandata
-GENtleMANDATA: A toolkit to generate synthetic manifold geometry datasets 
+  <img align="left" width="300" height="200" src="logo/GentlemanData.png">
+  GENtleMANDATA: A toolkit to generate synthetic manifold geometry datasets 
 
-![logo](logo/GentlemanData.png)
+---
+
+# Docs coming soon.
