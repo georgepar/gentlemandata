@@ -5,4 +5,4 @@ GENtleMANDATA: A toolkit to generate synthetic manifold geometry datasets
 
 ---
 
-Docs coming soon.
+# Docs coming soon.
