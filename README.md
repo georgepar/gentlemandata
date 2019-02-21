@@ -17,7 +17,7 @@ pip install -e .
 ```
 
 
-## Example  
+## Usage  
 
 Supported shapes to generate
 
