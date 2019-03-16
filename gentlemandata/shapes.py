@@ -12,7 +12,7 @@ from scipy.spatial import distance_matrix
 from scipy.spatial.distance import pdist, squareform
 from sklearn import datasets
 
-from _fast_utils import distance_matrix
+from ._fast_utils import distance_matrix
 
 
 class Shape(object):
